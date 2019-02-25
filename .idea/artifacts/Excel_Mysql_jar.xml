@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Excel_Mysql:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Excel_Mysql_jar</output-path>
+    <root id="archive" name="Excel_Mysql.jar">
+      <element id="module-output" name="Excel_Mysql" />
+      <element id="extracted-dir" path="E:/jar/jxl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/jar/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+      <element id="file-copy" path="E:/jar/jxl.jar" />
+      <element id="file-copy" path="E:/jar/mysql-connector-java-8.0.13.jar" />
+    </root>
+  </artifact>
+</component>
