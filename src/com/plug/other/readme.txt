@@ -2,6 +2,8 @@
 
 本工具的excel读取部分的代码借鉴于 https://www.cnblogs.com/biehongli/p/6497653.html，在此感谢 博客园 --->别先生<---
 
+需要jar包：jxl.jar（操作excel表），mysql-connector-java-8.0.13.jar（数据库连接）
+
 声明：当您使用本工具的时候就默认您已经阅读过本声明并同意本声明的内容。本插件代码完全开源，仅作技术交流。代码内容不存在病毒，不侵犯您的个人利益。
 
 本工具可能存在未预料的缺陷，如对您造成无法预料的损失，本工具以及其制作者无法对任何损失负责。如果对此有任何疑问，请加QQ:1823706264(木偶匹诺曹)，备注:sql数据导入工具。
@@ -19,3 +21,9 @@
 5.文件路径为excel文件的绝对路径，默认是D盘根目录，可手动更改。sheet编号与您模板填写的sheet编号一致，或者要与您自己符合要求的excel文件中要插入的数据所存在的sheet页码一致。（sheet编号从0开始，如果您的数据文件在第三页，sheet编号为2）。
 
 最后，再次感谢您使用本工具，欢迎您提出您的宝贵意见。
+
+源文件已上传到github,地址：https://github.com/LoserCH/Excel_Mysql。
+
+ssh下载路径：git@github.com:LoserCH/Excel_Mysql.git。
+
+https下载路径：https://github.com/LoserCH/Excel_Mysql.git
